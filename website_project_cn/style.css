@@ -681,7 +681,20 @@ i {
     transform: scale(1.1);
     }
 
+     .container-copyright {
+        width: 70%;
+        margin: 0 auto;
+        font-size: 1em;
+        display: flex;
+        flex-direction: column;
+    }
+
+    h4 {
+        font-size: 1em;
+    }
+
     .copyright {
         margin-bottom: 3em;
+        font-size: 1em;
     }
 }
